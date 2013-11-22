@@ -1,6 +1,6 @@
 //
-//  main.cpp
-//  Tablero Ajedrez
+//  chessBoard.cpp
+//  Chessboard
 //
 //  Created by Alex Sánchez on 22/11/13.
 //  Copyright (c) 2013 Alex Sanchez. All rights reserved.
